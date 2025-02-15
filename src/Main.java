@@ -37,7 +37,7 @@ public class Main {
                 }
                 break;
             default:
-                System.out.println("Ошибка: некорректный оператор!");
+                System.out.println("Ошибка: некорректный!");
                 return;
         }
 
