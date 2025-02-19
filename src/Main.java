@@ -37,7 +37,7 @@ public class Main {
                 }
                 break;
             default:
-                System.out.println("Ошибка: некорреный!");
+                System.out.println("Ошибка: некорреныйgit push origin main\n!");
                 return;
         }
 
